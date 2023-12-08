@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1701970615 source:c:\users\devop\onedrive\desktop\small projects in langage c++\testing\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<vector>
+
